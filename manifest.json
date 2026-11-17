@@ -1,303 +1,303 @@
 {
- "K": 56,
- "fps": 40.0,
+ "K": 96,
+ "fps": 62.5,
  "nNoise": 3,
- "frameBytes": 171,
+ "frameBytes": 291,
  "baseFreq": 440.0,
  "songs": {
   "10886657286": {
-   "frames": 3504,
-   "bytes": 599184,
+   "frames": 5479,
+   "bytes": 1594389,
    "src": "MitisTown.ogg"
   },
   "10887198690": {
-   "frames": 3834,
-   "bytes": 655614,
+   "frames": 5995,
+   "bytes": 1744545,
    "src": "Routes2,3,4,10,12.ogg"
   },
   "10920562748": {
-   "frames": 6636,
-   "bytes": 1134756,
+   "frames": 10373,
+   "bytes": 3018543,
    "src": "Route11.ogg"
   },
   "10920564092": {
-   "frames": 4318,
-   "bytes": 738378,
+   "frames": 6750,
+   "bytes": 1964250,
    "src": "Route13.ogg"
   },
   "10920580744": {
-   "frames": 5723,
-   "bytes": 978633,
+   "frames": 8946,
+   "bytes": 2603286,
    "src": "Route16.ogg"
   },
   "10941014421": {
-   "frames": 5501,
-   "bytes": 940671,
+   "frames": 8599,
+   "bytes": 2502309,
    "src": "Route17.ogg"
   },
   "10920581800": {
-   "frames": 6916,
-   "bytes": 1182636,
+   "frames": 10810,
+   "bytes": 3145710,
    "src": "Route18.ogg"
   },
   "10887185219": {
-   "frames": 4742,
-   "bytes": 810882,
+   "frames": 7414,
+   "bytes": 2157474,
    "src": "CheshmaTown.ogg"
   },
   "10909641251": {
-   "frames": 6610,
-   "bytes": 1130310,
+   "frames": 10331,
+   "bytes": 3006321,
    "src": "BrimberCity.ogg"
   },
   "10909646947": {
-   "frames": 8997,
-   "bytes": 1538487,
+   "frames": 14062,
+   "bytes": 4092042,
    "src": "CrescentTown.ogg"
   },
   "10909657259": {
-   "frames": 3836,
-   "bytes": 655956,
+   "frames": 5997,
+   "bytes": 1745127,
    "src": "FluorumaCity.ogg"
   },
   "10909661022": {
-   "frames": 4939,
-   "bytes": 844569,
+   "frames": 7720,
+   "bytes": 2246520,
    "src": "FrostveilCity.ogg"
   },
   "10909660112": {
-   "frames": 5676,
-   "bytes": 970596,
+   "frames": 8872,
+   "bytes": 2581752,
    "src": "FrostveilCatacombs.ogg"
   },
   "10920550885": {
-   "frames": 4604,
-   "bytes": 787284,
+   "frames": 7198,
+   "bytes": 2094618,
    "src": "RosecoveCity.ogg"
   },
   "10920552239": {
-   "frames": 4602,
-   "bytes": 786942,
+   "frames": 7194,
+   "bytes": 2093454,
    "src": "RosecoveBeach.ogg"
   },
   "10920539705": {
-   "frames": 2944,
-   "bytes": 503424,
+   "frames": 4604,
+   "bytes": 1339764,
    "src": "PortDecca.ogg"
   },
   "10909648755": {
-   "frames": 5410,
-   "bytes": 925110,
+   "frames": 8457,
+   "bytes": 2460987,
    "src": "DeccaBeach.ogg"
   },
   "10909643001": {
-   "frames": 6403,
-   "bytes": 1094913,
+   "frames": 10008,
+   "bytes": 2912328,
    "src": "CosmeosValley.ogg"
   },
   "10909643755": {
-   "frames": 2796,
-   "bytes": 478116,
+   "frames": 4372,
+   "bytes": 1272252,
    "src": "CragonosMines.ogg"
   },
   "10909644697": {
-   "frames": 4791,
-   "bytes": 819261,
+   "frames": 7489,
+   "bytes": 2179299,
    "src": "CragonosPeak.ogg"
   },
   "10909628753": {
-   "frames": 3063,
-   "bytes": 523773,
+   "frames": 4789,
+   "bytes": 1393599,
    "src": "AnthianSewers.ogg"
   },
   "73480271486578": {
-   "frames": 4716,
-   "bytes": 806436,
+   "frames": 7373,
+   "bytes": 2145543,
    "src": "AnthianCity-Housing.ogg"
   },
   "10909628011": {
-   "frames": 4552,
-   "bytes": 778392,
+   "frames": 7116,
+   "bytes": 2070756,
    "src": "AnthianCity-Shopping.ogg"
   },
   "10952775935": {
-   "frames": 4470,
-   "bytes": 764370,
+   "frames": 6988,
+   "bytes": 2033508,
    "src": "ShoppingDistrictLooped.ogg"
   },
   "10909625420": {
-   "frames": 4793,
-   "bytes": 819603,
+   "frames": 7492,
+   "bytes": 2180172,
    "src": "BattleDistrict.ogg"
   },
   "10909629966": {
-   "frames": 3876,
-   "bytes": 662796,
+   "frames": 6060,
+   "bytes": 1763460,
    "src": "Arcade.ogg"
   },
   "10887187533": {
-   "frames": 4705,
-   "bytes": 804555,
+   "frames": 7355,
+   "bytes": 2140305,
    "src": "GaleForest.ogg"
   },
   "10938155673": {
-   "frames": 4531,
-   "bytes": 774801,
+   "frames": 7084,
+   "bytes": 2061444,
    "src": "GaleForestLooped.ogg"
   },
   "10909683226": {
-   "frames": 3953,
-   "bytes": 675963,
+   "frames": 6180,
+   "bytes": 1798380,
    "src": "LagoonaLake.ogg"
   },
   "10938160992": {
-   "frames": 3833,
-   "bytes": 655443,
+   "frames": 5992,
+   "bytes": 1743672,
    "src": "LagoonaLakeLooped.ogg"
   },
   "10920618676": {
-   "frames": 4271,
-   "bytes": 730341,
+   "frames": 6677,
+   "bytes": 1943007,
    "src": "LagoonaTrenches.ogg"
   },
   "10920613793": {
-   "frames": 4136,
-   "bytes": 707256,
+   "frames": 6467,
+   "bytes": 1881897,
    "src": "TradeResort.ogg"
   },
   "10938167023": {
-   "frames": 4076,
-   "bytes": 696996,
+   "frames": 6372,
+   "bytes": 1854252,
    "src": "TradeResortLooped.ogg"
   },
   "10941822399": {
-   "frames": 3834,
-   "bytes": 655614,
+   "frames": 5995,
+   "bytes": 1744545,
    "src": "ArediaCityLooped.ogg"
   },
   "10920536066": {
-   "frames": 6156,
-   "bytes": 1052676,
+   "frames": 9623,
+   "bytes": 2800293,
    "src": "OldAredia.ogg"
   },
   "10920537238": {
-   "frames": 4755,
-   "bytes": 813105,
+   "frames": 7434,
+   "bytes": 2163294,
    "src": "OldGraveyard.ogg"
   },
   "10940899944": {
-   "frames": 4158,
-   "bytes": 711018,
+   "frames": 6501,
+   "bytes": 1891791,
    "src": "GroveOfDreams.ogg"
   },
   "10909665724": {
-   "frames": 4636,
-   "bytes": 792756,
+   "frames": 7247,
+   "bytes": 2108877,
    "src": "GlisteningGrotto.ogg"
   },
   "10920610913": {
-   "frames": 7940,
-   "bytes": 1357740,
+   "frames": 12410,
+   "bytes": 3611310,
    "src": "TinbellTower.ogg"
   },
   "10941074954": {
-   "frames": 6249,
-   "bytes": 1068579,
+   "frames": 9768,
+   "bytes": 2842488,
    "src": "FreezingFissure.ogg"
   },
   "10920534180": {
-   "frames": 4793,
-   "bytes": 819603,
+   "frames": 7492,
+   "bytes": 2180172,
    "src": "Igneus.ogg"
   },
   "10920585555": {
-   "frames": 2439,
-   "bytes": 417069,
+   "frames": 3815,
+   "bytes": 1110165,
    "src": "ShadowVoid.ogg"
   },
   "10909686273": {
-   "frames": 2239,
-   "bytes": 382869,
+   "frames": 3503,
+   "bytes": 1019373,
    "src": "LostIslands.ogg"
   },
   "10920538328": {
-   "frames": 5395,
-   "bytes": 922545,
+   "frames": 8434,
+   "bytes": 2454294,
    "src": "PathOfTruth.ogg"
   },
   "10909624555": {
-   "frames": 4436,
-   "bytes": 758556,
+   "frames": 6935,
+   "bytes": 2018085,
    "src": "AborilleOutpost.ogg"
   },
   "10920582830": {
-   "frames": 9116,
-   "bytes": 1558836,
+   "frames": 14248,
+   "bytes": 4146168,
    "src": "SafariZone.ogg"
   },
   "10920597269": {
-   "frames": 4503,
-   "bytes": 770013,
+   "frames": 7040,
+   "bytes": 2048640,
    "src": "TeamEclipseBase.ogg"
   },
   "10909639086": {
-   "frames": 4763,
-   "bytes": 814473,
+   "frames": 7446,
+   "bytes": 2166786,
    "src": "BattleColosseum.ogg"
   },
   "88765108726835": {
-   "frames": 3080,
-   "bytes": 526680,
+   "frames": 4816,
+   "bytes": 1401456,
    "src": "Pok\u00e9monCenter.ogg"
   },
   "10909658404": {
-   "frames": 3066,
-   "bytes": 524286,
+   "frames": 4795,
+   "bytes": 1395345,
    "src": "GateMusic.ogg"
   },
   "10909659071": {
-   "frames": 4474,
-   "bytes": 765054,
+   "frames": 6994,
+   "bytes": 2035254,
    "src": "FortuloseManorOutsideLOOPED.ogg"
   },
   "11041049500": {
-   "frames": 3337,
-   "bytes": 570627,
+   "frames": 5217,
+   "bytes": 1518147,
    "src": "3rdGym.ogg"
   },
   "10938377009": {
-   "frames": 4631,
-   "bytes": 791901,
+   "frames": 7239,
+   "bytes": 2106549,
    "src": "4,6,1,8Gym.ogg"
   },
   "11041086249": {
-   "frames": 4557,
-   "bytes": 779247,
+   "frames": 7125,
+   "bytes": 2073375,
    "src": "5thGym.ogg"
   },
   "10938345584": {
-   "frames": 4792,
-   "bytes": 819432,
+   "frames": 7491,
+   "bytes": 2179881,
    "src": "7thGym.ogg"
   },
   "10941843641": {
-   "frames": 4592,
-   "bytes": 785232,
+   "frames": 7178,
+   "bytes": 2088798,
    "src": "ArediaCatacombs.ogg"
   },
   "10920542864": {
-   "frames": 4597,
-   "bytes": 786087,
+   "frames": 7187,
+   "bytes": 2091417,
    "src": "RegiChambers.ogg"
   },
   "10940928958": {
-   "frames": 5156,
-   "bytes": 881676,
+   "frames": 8060,
+   "bytes": 2345460,
    "src": "ElLocoLudicolo!.ogg"
   },
   "10941030508": {
-   "frames": 1922,
-   "bytes": 328662,
+   "frames": 3007,
+   "bytes": 875037,
    "src": "Ocean_sOrigin.ogg"
   }
  }
